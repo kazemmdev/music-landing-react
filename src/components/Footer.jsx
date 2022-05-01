@@ -6,7 +6,7 @@ import FacebookSvg from "../images/facebook.svg";
 
 const Footer = () => {
   return (
-    <div className=" footer flex flex-col items-center justify-start px-[5rem] bg-[#081730] h-[45rem] pt-[18rem] mt-[-10rem] relative z-[-1]">
+    <div className=" footer flex flex-col items-center justify-start p-20 bg-[#081730] h-[30rem] pt-[16rem] mt-[-10rem] relative -z-10">
       <div className="flex w-[100%] justify-center mt-14 gap-10">
         <div className="rounded-full border-2 border-whit p-2">
           <img src={YoutubSvg} alt="" />
